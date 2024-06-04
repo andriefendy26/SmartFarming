@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "735510965463",
+    "firebase_url": "https://smart-farming-cedb6-default-rtdb.firebaseio.com",
+    "project_id": "smart-farming-cedb6",
+    "storage_bucket": "smart-farming-cedb6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:735510965463:android:7f335ed0bb4c5dada3d492",
+        "android_client_info": {
+          "package_name": "com.smartfarming"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZ6Yat7gLmjCabvSy_WVuGrsIxHp0cz_o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
